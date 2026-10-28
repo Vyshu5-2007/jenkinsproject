@@ -1,0 +1,8 @@
+git add a.txt
+ddgit config user.email "dsrivyshnavi5@gmail.com"
+git init
+
+
+
+
+[A[A[A[A[A[A[A[B[B[Bon branch master
